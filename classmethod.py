@@ -76,4 +76,5 @@ if __name__ == '__main__':
     print(emp3.last)
     print(emp3.email)
     emp3.fullname
+    print(emp3.give_raise)
 
